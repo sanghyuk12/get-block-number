@@ -1,0 +1,25 @@
+{
+  "name": "get-block-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanghyuk12/get-block-number.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanghyuk12/get-block-number/issues"
+  },
+  "homepage": "https://github.com/sanghyuk12/get-block-number#readme",
+  "dependencies": {
+    "eosjs": "^20.0.0",
+    "node-fetch": "^2.6.0",
+    "util": "^0.12.1"
+  }
+}
